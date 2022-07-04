@@ -29,3 +29,9 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkovakv&layout=compact"
 </div>
+<h3 align="center">Контакты</h3>
+<div align="center" display="flex" flex-direction="row">
+  <a href="https://t.me/KsyushaVolkova"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kseniya-volkova-9b6a94216/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/79169624590"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
